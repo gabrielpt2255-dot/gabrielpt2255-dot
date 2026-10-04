@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Gabriel Pérez 👋
 
-<!--
-**gabrielpt2255-dot/gabrielpt2255-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la facultad de  Sistemas Computacionales en la
+Universidad Tecnológica de Panamá (UTP).
+Me interesa la programación, las redes y el desarrollo de software.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- Lenguaje C
+- Pseudocódigo (PSeInt)
+- Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Lo que estoy aprendiendo
+- Algoritmos y lógica de programación
+- Sentencias de control en C
+- Fundamentos de redes
+
+## 📁 Proyectos destacados
+- [Nombre del proyecto 1](enlace) - breve descripción
+- [Nombre del proyecto 2](enlace) - breve descripción
+
+## 📫 Contacto
+- Correo: gabriel.pt2255@gmail.com
+- LinkedIn: [enlace] (https://www.linkedin.com/in/gabriel-pérez-8a7102332/)
