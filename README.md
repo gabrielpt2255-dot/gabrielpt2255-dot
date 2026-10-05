@@ -15,8 +15,8 @@ Me interesa la programación, las redes y el desarrollo de software.
 - Fundamentos de redes
 
 ## 📁 Proyectos destacados
-- [Nombre del proyecto 1](enlace) - breve descripción
-- [Nombre del proyecto 2](enlace) - breve descripción
+- https://github.com/gabrielpt2255-dot/calculadora-en-c
+- https://github.com/gabrielpt2255-dot/converson-de-monedas
 
 ## 📫 Contacto
 - Correo: gabriel.pt2255@gmail.com
